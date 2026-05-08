@@ -1,4 +1,4 @@
-public class Pelanggan extends user{
+public class Pelanggan extends User{
     private String tanggal;
 
 public Pelanggan(String idUser, String nama, String tanggal){
