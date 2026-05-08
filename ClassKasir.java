@@ -1,7 +1,7 @@
-public class kasir extends user {
+public class Kasir extends user {
     private String shift;
 
-    public kasir(String idUser, String nama, String shift) {
+    public Kasir(String idUser, String nama, String shift) {
         super(idUser, nama);
         this.shift = shift;
     }
