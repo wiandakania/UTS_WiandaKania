@@ -1,7 +1,7 @@
-public class pelanggan extends user{
+public class Pelanggan extends user{
     private String tanggal;
 
-public pelanggan(String idUser, String nama, String tanggal){
+public Pelanggan(String idUser, String nama, String tanggal){
     super(idUser, nama);
     this.tanggal = tanggal;
 }
