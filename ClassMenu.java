@@ -1,8 +1,8 @@
-public class menu {
+public class Menu {
     private String namaMakanan;
     private double hargaMakanan;
 
-public menu(String namaMakanan, double hargaMakanan){
+public Menu(String namaMakanan, double hargaMakanan){
     this.namaMakanan = namaMakanan;
     this.hargaMakanan = hargaMakanan;
 }
