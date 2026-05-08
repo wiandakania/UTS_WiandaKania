@@ -1,8 +1,8 @@
-ublic class user {
+ublic class User {
     private String idUser;
     private String nama;
 
-public user(String idUser, String nama){
+public User(String idUser, String nama){
     this.idUser = idUser;
     this.nama = nama;
 }
