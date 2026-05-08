@@ -1,4 +1,4 @@
-public class Kasir extends user {
+public class Kasir extends User {
     private String shift;
 
     public Kasir(String idUser, String nama, String shift) {
