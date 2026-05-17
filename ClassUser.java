@@ -1,4 +1,4 @@
-ublic class User {
+Public class User {
     private String idUser;
     private String nama;
 
